@@ -25,7 +25,6 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    text-decoration: none;
 
 }
 
@@ -41,11 +40,7 @@ body {
     font-style: normal;
 }
 
-.adress-list {
-    list-style: none;
-}
-
-.adress-mail-txt {
+.adress-mail {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -53,18 +48,16 @@ body {
 
 }
 
-.adress-mail-txt:hover {
+.adress-mail:hover {
     color: #404bbf;
-
 }
 
-.adress-mail-txt:focus {
+.adress-mail:focus {
     color: #404bbf;
 }
 
 .link {
     text-decoration: none;
-
 }
 
 .span {
@@ -74,10 +67,4 @@ body {
 
 .list {
     list-style: none;
-
-}
-
-
-.studio {
-    color: green;
 }
