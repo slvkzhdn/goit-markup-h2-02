@@ -15,19 +15,56 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
+
 }
 
-.header-nav-link {
+.header-nav-studio {
     font-weight: 500;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
     text-decoration: none;
+
+}
+
+.header-nav-studio:hover {
+    color: #404bbf;
+}
+
+.header-nav-studio:focus {
+    color: #404bbf;
 }
 
 .adress {
     font-style: normal;
+}
+
+.adress-list {
+    list-style: none;
+}
+
+.adress-mail-txt {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+
+.adress-mail-txt:hover {
+    color: #404bbf;
+
+}
+
+.adress-mail-txt:focus {
+    color: #404bbf;
+}
+
+.link {
+    text-decoration: none;
+
 }
 
 .span {
@@ -35,40 +72,11 @@ body {
 
 }
 
-.link {
-    text-decoration: none;
-    
-}
-.header-nav-link {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-
-}
-
-.adress-mail {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-    
-}
-
-.link:hover {
-    color: #404bbf;
-}
-
-.link:focus {
-    color: #404bbf;
-}
-
 .list {
     list-style: none;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+
 }
+
 
 .studio {
     color: green;
