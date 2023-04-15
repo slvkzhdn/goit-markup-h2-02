@@ -18,6 +18,18 @@ body {
     color: #4d5ae5;
 }
 
+.header-nav-studio {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-decoration: none;
+}
+
+.adress {
+    font-style: normal;
+}
+
 .span {
     color: #2e2f42;
 
@@ -26,9 +38,19 @@ body {
 .link {
     text-decoration: none;
 }
+.link:hover {
+    color: #404bbf;
+}
+
+.link:focus {
+    color: #404bbf;
+}
 
 .list {
     list-style: none;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .studio {
