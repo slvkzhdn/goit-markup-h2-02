@@ -246,3 +246,64 @@ body {
 .item-mail-portfolio:focus {
     color: #404bbf;
 }
+
+/* MAIN */
+
+.filters-btn {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+
+}
+
+.filters-btn:hover {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.filters-btn:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+
+.row-h2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.row-p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+
+
+.portfolio-footer {
+    background-color: #2e2f42;
+}
+
+.portfolio-footer-logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+
+}
+
+.portfolio-span-footer {
+    color: #f4f4fd;
+}
